@@ -1,2 +1,5 @@
-# tech-projects
-Repository for EIT technology projects.
+# **mainsparks - tech projects** 
+
+## Computer technology projects
+
+Welcome to my repository for EIT technology projects.
